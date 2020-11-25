@@ -1,0 +1,1826 @@
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 10:58:44.545 CET</date>
+	<endDate>2020-03-09 10:58:44.545 CET</endDate>
+	<originId>org.eclipse.ui.internal.introview</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 10:58:44.547 CET</date>
+	<endDate>2020-03-09 10:58:44.547 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 10:58:44.726 CET</date>
+	<endDate>2020-03-09 10:58:44.726 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 10:58:48.250 CET</date>
+	<endDate>2020-03-09 10:58:48.250 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 10:59:06.195 CET</date>
+	<endDate>2020-03-09 10:59:06.195 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 10:59:21.48 CET</date>
+	<endDate>2020-03-09 10:59:21.48 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 10:59:21.340 CET</date>
+	<endDate>2020-03-09 10:59:21.340 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 10:59:21.393 CET</date>
+	<endDate>2020-03-09 10:59:21.393 CET</endDate>
+	<originId>org.eclipse.jdt.ui.CompilationUnitEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 10:59:21.393 CET</date>
+	<endDate>2020-03-09 10:59:21.393 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 10:59:31.124 CET</date>
+	<endDate>2020-03-09 10:59:31.124 CET</endDate>
+	<originId>preferences</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 10:59:46.826 CET</date>
+	<endDate>2020-03-09 10:59:46.826 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:37:13.948 CET</date>
+	<endDate>2020-03-09 11:37:13.948 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 11:37:18.65 CET</date>
+	<endDate>2020-03-09 11:37:18.65 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 11:37:18.706 CET</date>
+	<endDate>2020-03-09 11:37:18.706 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 11:37:18.725 CET</date>
+	<endDate>2020-03-09 11:37:18.725 CET</endDate>
+	<originId>org.eclipse.jdt.ui.CompilationUnitEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 11:37:18.725 CET</date>
+	<endDate>2020-03-09 11:37:18.725 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:51:15.902 CET</date>
+	<endDate>2020-03-09 11:51:15.902 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:54:03.46 CET</date>
+	<endDate>2020-03-09 11:54:03.46 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 11:54:08.420 CET</date>
+	<endDate>2020-03-09 11:54:08.420 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:54:12.589 CET</date>
+	<endDate>2020-03-09 11:54:12.589 CET</endDate>
+	<originId>org.eclipse.ui.actions.NewWizardMenu</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:54:39.353 CET</date>
+	<endDate>2020-03-09 11:54:39.353 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:54:43.329 CET</date>
+	<endDate>2020-03-09 11:54:43.329 CET</endDate>
+	<originId>import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:54:43.329 CET</date>
+	<endDate>2020-03-09 11:54:43.329 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:54:43.329 CET</date>
+	<endDate>2020-03-09 11:54:43.329 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:55:45.762 CET</date>
+	<endDate>2020-03-09 11:55:45.762 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:55:50.376 CET</date>
+	<endDate>2020-03-09 11:55:50.376 CET</endDate>
+	<originId>import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:55:50.377 CET</date>
+	<endDate>2020-03-09 11:55:50.377 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:55:50.377 CET</date>
+	<endDate>2020-03-09 11:55:50.377 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:06.500 CET</date>
+	<endDate>2020-03-09 11:56:06.500 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:20.359 CET</date>
+	<endDate>2020-03-09 11:56:20.359 CET</endDate>
+	<originId>import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:20.359 CET</date>
+	<endDate>2020-03-09 11:56:20.359 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:20.359 CET</date>
+	<endDate>2020-03-09 11:56:20.359 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:32.931 CET</date>
+	<endDate>2020-03-09 11:56:32.931 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:38.481 CET</date>
+	<endDate>2020-03-09 11:56:38.481 CET</endDate>
+	<originId>org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:38.481 CET</date>
+	<endDate>2020-03-09 11:56:38.481 CET</endDate>
+	<originId>org.eclipse.ui.edit.delete</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:41.363 CET</date>
+	<endDate>2020-03-09 11:56:41.363 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:48.517 CET</date>
+	<endDate>2020-03-09 11:56:48.517 CET</endDate>
+	<originId>import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:48.517 CET</date>
+	<endDate>2020-03-09 11:56:48.517 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:48.517 CET</date>
+	<endDate>2020-03-09 11:56:48.517 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:56:57.393 CET</date>
+	<endDate>2020-03-09 11:56:57.393 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:01.843 CET</date>
+	<endDate>2020-03-09 11:57:01.843 CET</endDate>
+	<originId>org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:01.843 CET</date>
+	<endDate>2020-03-09 11:57:01.843 CET</endDate>
+	<originId>org.eclipse.ui.edit.delete</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:03.813 CET</date>
+	<endDate>2020-03-09 11:57:03.813 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:06.844 CET</date>
+	<endDate>2020-03-09 11:57:06.844 CET</endDate>
+	<originId>org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:06.844 CET</date>
+	<endDate>2020-03-09 11:57:06.844 CET</endDate>
+	<originId>org.eclipse.ui.edit.delete</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:08.782 CET</date>
+	<endDate>2020-03-09 11:57:08.782 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:14.33 CET</date>
+	<endDate>2020-03-09 11:57:14.33 CET</endDate>
+	<originId>org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:14.33 CET</date>
+	<endDate>2020-03-09 11:57:14.33 CET</endDate>
+	<originId>org.eclipse.ui.edit.delete</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:15.564 CET</date>
+	<endDate>2020-03-09 11:57:15.564 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:19.237 CET</date>
+	<endDate>2020-03-09 11:57:19.237 CET</endDate>
+	<originId>org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:19.237 CET</date>
+	<endDate>2020-03-09 11:57:19.237 CET</endDate>
+	<originId>org.eclipse.ui.edit.delete</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:21.57 CET</date>
+	<endDate>2020-03-09 11:57:21.57 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:23.997 CET</date>
+	<endDate>2020-03-09 11:57:23.997 CET</endDate>
+	<originId>org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:23.997 CET</date>
+	<endDate>2020-03-09 11:57:23.997 CET</endDate>
+	<originId>org.eclipse.ui.edit.delete</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 11:57:25.643 CET</date>
+	<endDate>2020-03-09 11:57:25.643 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:12:48.945 CET</date>
+	<endDate>2020-03-09 12:12:48.945 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:13:23.532 CET</date>
+	<endDate>2020-03-09 12:13:23.532 CET</endDate>
+	<originId>org.eclipse.ui.actions.NewWizardMenu</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:13:23.532 CET</date>
+	<endDate>2020-03-09 12:13:23.532 CET</endDate>
+	<originId>org.eclipse.ui.newWizard</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:18.222 CET</date>
+	<endDate>2020-03-09 12:14:18.222 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:18.300 CET</date>
+	<endDate>2020-03-09 12:14:18.300 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:18.332 CET</date>
+	<endDate>2020-03-09 12:14:18.332 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:18.332 CET</date>
+	<endDate>2020-03-09 12:14:18.332 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:18.363 CET</date>
+	<endDate>2020-03-09 12:14:18.363 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:21.535 CET</date>
+	<endDate>2020-03-09 12:14:21.535 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:23.660 CET</date>
+	<endDate>2020-03-09 12:14:23.660 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:27.115 CET</date>
+	<endDate>2020-03-09 12:14:27.115 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart$EditorActions</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:27.896 CET</date>
+	<endDate>2020-03-09 12:14:27.896 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart$EditorActions</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:32.363 CET</date>
+	<endDate>2020-03-09 12:14:32.363 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:14:32.738 CET</date>
+	<endDate>2020-03-09 12:14:32.738 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:39.183 CET</date>
+	<endDate>2020-03-09 12:14:39.183 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart$EditorActions</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:39.938 CET</date>
+	<endDate>2020-03-09 12:14:39.938 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.ViewerExpandCollapseAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:40.547 CET</date>
+	<endDate>2020-03-09 12:14:40.547 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.ViewerExpandCollapseAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:41.391 CET</date>
+	<endDate>2020-03-09 12:14:41.391 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart$EditorActions</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:43.953 CET</date>
+	<endDate>2020-03-09 12:14:43.953 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart$5</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:46.468 CET</date>
+	<endDate>2020-03-09 12:14:46.468 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:14:48.192 CET</date>
+	<endDate>2020-03-09 12:14:48.192 CET</endDate>
+	<originId>org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart$EditorActions</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:23:58.634 CET</date>
+	<endDate>2020-03-09 12:23:58.634 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:24:00.359 CET</date>
+	<endDate>2020-03-09 12:24:00.359 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:24:03.383 CET</date>
+	<endDate>2020-03-09 12:24:03.383 CET</endDate>
+	<originId>org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:24:03.383 CET</date>
+	<endDate>2020-03-09 12:24:03.383 CET</endDate>
+	<originId>org.eclipse.ui.edit.delete</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:24:04.761 CET</date>
+	<endDate>2020-03-09 12:24:04.761 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:24:14.103 CET</date>
+	<endDate>2020-03-09 12:24:14.103 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:24:51.852 CET</date>
+	<endDate>2020-03-09 12:24:51.852 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:24:56.355 CET</date>
+	<endDate>2020-03-09 12:24:56.355 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:24:59.770 CET</date>
+	<endDate>2020-03-09 12:24:59.770 CET</endDate>
+	<originId>org.eclipse.ui.CloseResourceAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:24:59.770 CET</date>
+	<endDate>2020-03-09 12:24:59.770 CET</endDate>
+	<originId>org.eclipse.ui.project.closeProject</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:24:59.770 CET</date>
+	<endDate>2020-03-09 12:24:59.770 CET</endDate>
+	<originId>org.eclipse.jdt.ui.CompilationUnitEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorClose</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:24:59.770 CET</date>
+	<endDate>2020-03-09 12:24:59.770 CET</endDate>
+	<originId>org.eclipse.jdt.ui.CompilationUnitEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorClose</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:25:00.99 CET</date>
+	<endDate>2020-03-09 12:25:00.99 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:25:00.130 CET</date>
+	<endDate>2020-03-09 12:25:00.130 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorClose</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:25:05.456 CET</date>
+	<endDate>2020-03-09 12:25:05.456 CET</endDate>
+	<originId>org.eclipse.e4.ui.importer.openDirectory.menu</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:25:05.457 CET</date>
+	<endDate>2020-03-09 12:25:05.457 CET</endDate>
+	<originId>org.eclipse.e4.ui.importer.openDirectory</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:25:28.664 CET</date>
+	<endDate>2020-03-09 12:25:28.664 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:25:55.866 CET</date>
+	<endDate>2020-03-09 12:25:55.866 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:26:05.447 CET</date>
+	<endDate>2020-03-09 12:26:05.447 CET</endDate>
+	<originId>newWizardDropDown</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>toolbar</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:26:14.954 CET</date>
+	<endDate>2020-03-09 12:26:14.954 CET</endDate>
+	<originId>org.eclipse.e4.ui.importer.openDirectory.menu</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:26:14.954 CET</date>
+	<endDate>2020-03-09 12:26:14.954 CET</endDate>
+	<originId>org.eclipse.e4.ui.importer.openDirectory</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:26:30.837 CET</date>
+	<endDate>2020-03-09 12:26:30.837 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:26:34.852 CET</date>
+	<endDate>2020-03-09 12:26:34.852 CET</endDate>
+	<originId>org.eclipse.ui.openLocalFile</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:26:34.852 CET</date>
+	<endDate>2020-03-09 12:26:34.852 CET</endDate>
+	<originId>org.eclipse.ui.edit.text.openLocalFile</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:27:03.215 CET</date>
+	<endDate>2020-03-09 12:27:03.215 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:03.383 CET</date>
+	<endDate>2020-03-09 12:27:03.383 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:03.399 CET</date>
+	<endDate>2020-03-09 12:27:03.399 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:03.414 CET</date>
+	<endDate>2020-03-09 12:27:03.414 CET</endDate>
+	<originId>org.eclipse.jdt.ui.ClassFileEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:03.414 CET</date>
+	<endDate>2020-03-09 12:27:03.414 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:05.258 CET</date>
+	<endDate>2020-03-09 12:27:05.258 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:05.289 CET</date>
+	<endDate>2020-03-09 12:27:05.289 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:27:08.197 CET</date>
+	<endDate>2020-03-09 12:27:08.197 CET</endDate>
+	<originId>org.eclipse.ui.openLocalFile</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:27:08.197 CET</date>
+	<endDate>2020-03-09 12:27:08.197 CET</endDate>
+	<originId>org.eclipse.ui.edit.text.openLocalFile</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:27:09.869 CET</date>
+	<endDate>2020-03-09 12:27:09.869 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:10.228 CET</date>
+	<endDate>2020-03-09 12:27:10.228 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:10.337 CET</date>
+	<endDate>2020-03-09 12:27:10.337 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:10.353 CET</date>
+	<endDate>2020-03-09 12:27:10.353 CET</endDate>
+	<originId>org.eclipse.jdt.ui.CompilationUnitEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:10.353 CET</date>
+	<endDate>2020-03-09 12:27:10.353 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:18.71 CET</date>
+	<endDate>2020-03-09 12:27:18.71 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:18.133 CET</date>
+	<endDate>2020-03-09 12:27:18.133 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:27:26.588 CET</date>
+	<endDate>2020-03-09 12:27:26.588 CET</endDate>
+	<originId>org.eclipse.e4.ui.importer.openDirectory.menu</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:27:26.588 CET</date>
+	<endDate>2020-03-09 12:27:26.588 CET</endDate>
+	<originId>org.eclipse.e4.ui.importer.openDirectory</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:27:40.244 CET</date>
+	<endDate>2020-03-09 12:27:40.244 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:52.361 CET</date>
+	<endDate>2020-03-09 12:27:52.361 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:52.502 CET</date>
+	<endDate>2020-03-09 12:27:52.502 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:52.513 CET</date>
+	<endDate>2020-03-09 12:27:52.513 CET</endDate>
+	<originId>org.eclipse.jdt.ui.CompilationUnitEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:52.513 CET</date>
+	<endDate>2020-03-09 12:27:52.513 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:53.797 CET</date>
+	<endDate>2020-03-09 12:27:53.797 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:54.187 CET</date>
+	<endDate>2020-03-09 12:27:54.187 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:54.219 CET</date>
+	<endDate>2020-03-09 12:27:54.219 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:54.219 CET</date>
+	<endDate>2020-03-09 12:27:54.219 CET</endDate>
+	<originId>org.eclipse.jdt.ui.ClassFileEditorNoSource</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:54.219 CET</date>
+	<endDate>2020-03-09 12:27:54.219 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:27:56.266 CET</date>
+	<endDate>2020-03-09 12:27:56.266 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:28:25.467 CET</date>
+	<endDate>2020-03-09 12:28:25.467 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:28:25.936 CET</date>
+	<endDate>2020-03-09 12:28:25.936 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:28:25.952 CET</date>
+	<endDate>2020-03-09 12:28:25.952 CET</endDate>
+	<originId>org.eclipse.jdt.ui.CompilationUnitEditor</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:28:25.952 CET</date>
+	<endDate>2020-03-09 12:28:25.952 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: editorOpen</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:28:44.253 CET</date>
+	<endDate>2020-03-09 12:28:44.253 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:28:48.183 CET</date>
+	<endDate>2020-03-09 12:28:48.183 CET</endDate>
+	<originId>import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:28:48.183 CET</date>
+	<endDate>2020-03-09 12:28:48.183 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:28:48.183 CET</date>
+	<endDate>2020-03-09 12:28:48.183 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:30:07.518 CET</date>
+	<endDate>2020-03-09 12:30:07.518 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:30:42.58 CET</date>
+	<endDate>2020-03-09 12:30:42.58 CET</endDate>
+	<originId>projectProperties</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:30:42.58 CET</date>
+	<endDate>2020-03-09 12:30:42.58 CET</endDate>
+	<originId>org.eclipse.ui.project.properties</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:30:54.417 CET</date>
+	<endDate>2020-03-09 12:30:54.417 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:30:57.654 CET</date>
+	<endDate>2020-03-09 12:30:57.654 CET</endDate>
+	<originId>projectProperties</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:30:57.654 CET</date>
+	<endDate>2020-03-09 12:30:57.654 CET</endDate>
+	<originId>org.eclipse.ui.project.properties</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:31:11.949 CET</date>
+	<endDate>2020-03-09 12:31:11.949 CET</endDate>
+	<originId>org.eclipse.ui.ide.showInSystemExplorer</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:31:34.983 CET</date>
+	<endDate>2020-03-09 12:31:34.983 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:31:42.469 CET</date>
+	<endDate>2020-03-09 12:31:42.469 CET</endDate>
+	<originId>preferences</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:31:46.153 CET</date>
+	<endDate>2020-03-09 12:31:46.153 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:32:24.746 CET</date>
+	<endDate>2020-03-09 12:32:24.746 CET</endDate>
+	<originId>import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:32:24.746 CET</date>
+	<endDate>2020-03-09 12:32:24.746 CET</endDate>
+	<originId>org.eclipse.ui.file.import</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:32:42.403 CET</date>
+	<endDate>2020-03-09 12:32:42.403 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:33:48.370 CET</date>
+	<endDate>2020-03-09 12:33:48.370 CET</endDate>
+	<originId>org.eclipse.ui.dialogs.PropertyDialogAction</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>menu</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:33:48.370 CET</date>
+	<endDate>2020-03-09 12:33:48.370 CET</endDate>
+	<originId>org.eclipse.ui.file.properties</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>keybinding</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:35:25.313 CET</date>
+	<endDate>2020-03-09 12:35:25.313 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:36:45.509 CET</date>
+	<endDate>2020-03-09 12:36:45.509 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:37:40.9 CET</date>
+	<endDate>2020-03-09 12:37:40.9 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:37:42.187 CET</date>
+	<endDate>2020-03-09 12:37:42.187 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>activated</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.328 CET</date>
+	<endDate>2020-03-09 12:37:42.328 CET</endDate>
+	<originId>org.eclipse.ui.views.ProblemView</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.328 CET</date>
+	<endDate>2020-03-09 12:37:42.328 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.347 CET</date>
+	<endDate>2020-03-09 12:37:42.347 CET</endDate>
+	<originId>org.eclipse.mylyn.tasks.ui.views.tasks</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.347 CET</date>
+	<endDate>2020-03-09 12:37:42.347 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.367 CET</date>
+	<endDate>2020-03-09 12:37:42.367 CET</endDate>
+	<originId>org.eclipse.ui.views.ContentOutline</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.367 CET</date>
+	<endDate>2020-03-09 12:37:42.367 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.440 CET</date>
+	<endDate>2020-03-09 12:37:42.440 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: actionSetShow</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.474 CET</date>
+	<endDate>2020-03-09 12:37:42.474 CET</endDate>
+	<originId>org.eclipse.jdt.ui.PackageExplorer</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>preference</kind>
+	<date>2020-03-09 12:37:42.474 CET</date>
+	<endDate>2020-03-09 12:37:42.474 CET</endDate>
+	<originId>org.eclipse.jdt.ui.JavaPerspective</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>perspective changed: viewHide</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>
+<interactionEvent>
+	<kind>command</kind>
+	<date>2020-03-09 12:37:42.592 CET</date>
+	<endDate>2020-03-09 12:37:42.592 CET</endDate>
+	<originId>org.eclipse.ui.internal.WorkbenchWindow</originId>
+	<structureKind>null</structureKind>
+	<structureHandle>gZmLkbazE00TxC8oVszpqUbRzow=/K+iMpCQsduglOsYkdIUQZQMtaDM=</structureHandle>
+	<navigation>null</navigation>
+	<delta>closed</delta>
+	<interestContribution>1.0</interestContribution>
+</interactionEvent>

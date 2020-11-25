@@ -1,0 +1,9 @@
+﻿  Chaine.cpp
+  Etat.cpp
+  Liste.cpp
+  main.cpp
+  Tableau2D.cpp
+  Taquin.cpp
+e:\projet sda\projet sda\sprint4\taquin.cpp(268): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  Sprint4.vcxproj -> E:\Projet SDA\Projet SDA\Debug\Sprint4.exe

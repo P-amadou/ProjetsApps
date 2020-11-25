@@ -1,0 +1,5 @@
+nom BDD : base_projet_vb
+adresse serveur : db4free.net
+port : 3306
+user : taquin_vb
+pwd : JJH8yvEh9jb3C3h

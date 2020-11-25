@@ -1,0 +1,24 @@
+2019-05-24 15:52:12,284 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2019-05-24 15:52:20,759 [Worker-3] INFO  org.eclipse.jetty.util.log - Logging initialized @103521ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-05-24 15:52:21,864 [Worker-3] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T22:27:37+01:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2019-05-24 15:52:21,890 [Worker-3] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2019-05-24 15:52:21,890 [Worker-3] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2019-05-24 15:52:21,891 [Worker-3] INFO  org.eclipse.jetty.server.session - Scavenging every 660000ms
+2019-05-24 15:52:21,965 [Worker-3] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5d767601{/,null,AVAILABLE}
+2019-05-24 15:52:22,009 [Worker-3] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@358f1ca3{HTTP/1.1,[http/1.1]}{0.0.0.0:50006}
+2019-05-24 15:52:22,010 [Worker-3] INFO  org.eclipse.jetty.server.Server - Started @104773ms
+2019-05-24 15:53:22,915 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@358f1ca3{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2019-05-24 15:53:22,916 [Framework stop] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2019-05-24 15:53:22,930 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5d767601{/,null,UNAVAILABLE}
+2019-05-24 15:54:46,735 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-24 15:54:50,288 [Worker-1] INFO  org.eclipse.jetty.util.log - Logging initialized @73236ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-05-24 15:54:50,513 [Worker-1] INFO  org.eclipse.jetty.server.Server - jetty-9.4.8.v20171121, build timestamp: 2017-11-21T22:27:37+01:00, git hash: 82b8fb23f757335bb3329d540ce37a2a2615f0a8
+2019-05-24 15:54:50,549 [Worker-1] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2019-05-24 15:54:50,550 [Worker-1] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2019-05-24 15:54:50,571 [Worker-1] INFO  org.eclipse.jetty.server.session - Scavenging every 600000ms
+2019-05-24 15:54:50,663 [Worker-1] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5769d2b6{/,null,AVAILABLE}
+2019-05-24 15:54:50,707 [Worker-1] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@405b2466{HTTP/1.1,[http/1.1]}{0.0.0.0:50028}
+2019-05-24 15:54:50,707 [Worker-1] INFO  org.eclipse.jetty.server.Server - Started @73656ms
+2019-05-24 15:55:55,805 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@405b2466{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2019-05-24 15:55:55,807 [Framework stop] INFO  org.eclipse.jetty.server.session - Stopped scavenging
+2019-05-24 15:55:55,822 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5769d2b6{/,null,UNAVAILABLE}

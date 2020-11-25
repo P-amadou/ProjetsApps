@@ -1,0 +1,14 @@
+﻿  ConteneurEtat.cpp
+e:\sda projet\sprint 4\sprint 4\conteneuretat.cpp : error C2471: impossible de mettre à jour la base de données 'E:\SDA projet\Sprint 4\Sprint 4\Debug\vc141.pdb' du programme
+  Etat.cpp
+e:\sda projet\sprint 4\sprint 4\etat.cpp : error C2471: impossible de mettre à jour la base de données 'E:\SDA projet\Sprint 4\Sprint 4\Debug\vc141.pdb' du programme
+  Liste.cpp
+e:\sda projet\sprint 4\sprint 4\liste.cpp : error C2471: impossible de mettre à jour la base de données 'E:\SDA projet\Sprint 4\Sprint 4\Debug\vc141.pdb' du programme
+  main.cpp
+e:\sda projet\sprint 4\sprint 4\main.cpp : error C2471: impossible de mettre à jour la base de données 'E:\SDA projet\Sprint 4\Sprint 4\Debug\vc141.pdb' du programme
+  Tableau2D.cpp
+e:\sda projet\sprint 4\sprint 4\tableau2d.cpp : error C2471: impossible de mettre à jour la base de données 'E:\SDA projet\Sprint 4\Sprint 4\Debug\vc141.pdb' du programme
+  Taquin.cpp
+e:\sda projet\sprint 4\sprint 4\taquin.cpp : error C2471: impossible de mettre à jour la base de données 'E:\SDA projet\Sprint 4\Sprint 4\Debug\vc141.pdb' du programme
+e:\sda projet\sprint 4\sprint 4\taquin.cpp(61): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...

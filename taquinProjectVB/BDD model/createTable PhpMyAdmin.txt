@@ -1,0 +1,1 @@
+https://github.com/phpmyadmin/phpmyadmin/blob/master/sql/create_tables.sql

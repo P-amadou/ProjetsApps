@@ -1,0 +1,60 @@
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\taquinProject.exe.config
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\taquinProject.exe
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\taquinProject.pdb
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\taquinProject.xml
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.vbprojAssemblyReference.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.Resources.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.GenerateResource.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.CoreCompileInputs.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.exe
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.xml
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.pdb
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.Jeu.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.MenuPrincipal.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.parametres.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.FormConnexion.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.PageAccueil.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.FormNveCompte.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.Statistique.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.Classement.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.ResolveComReference.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\MySql.Data.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\bin\Debug\MySql.Data.xml
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.CopyComplete
+C:\Users\Dabi\Documents\ISN\IUT\Projet\ProjetVBA\taquinProject\taquinProject\obj\Debug\taquinProject.FormModeEnLigne.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.vbprojAssemblyReference.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.ResolveComReference.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.Classement.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.FormConnexion.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.FormModeEnLigne.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.FormNveCompte.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.PageAccueil.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.Jeu.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.MenuPrincipal.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.Resources.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.parametres.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.Statistique.resources
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.GenerateResource.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.CoreCompileInputs.cache
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.exe
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.xml
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.pdb
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\taquinProject.exe.config
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\taquinProject.exe
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\taquinProject.pdb
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\taquinProject.xml
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\MySql.Data.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\Google.Protobuf.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\MySql.Data.xml
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dabi\Documents\ISN\IUT\Projet\Projet VB -Master\projetvba-master\projetvba-master\taquinProject\taquinProject\obj\Debug\taquinProject.vbproj.CopyComplete

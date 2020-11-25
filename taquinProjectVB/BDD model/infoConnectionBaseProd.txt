@@ -1,0 +1,5 @@
+nom BDD : base_projet_vb
+adresse serveur : srv1.poneyhost.eu
+port : 3306
+user : dabi
+pwd : JJH8yvEh9jb3C3h
